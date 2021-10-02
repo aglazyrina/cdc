@@ -6,6 +6,8 @@ Link to the interactive Tableau Dashboard
 
 https://public.tableau.com/app/profile/anna.glazyrina/viz/CDCSVI-AnnaG_McLeodB_NilsMenz_/Countyview?publish=yes
 
+If you experience problems with scrolling when viewing the dasboard, enable settings -> show sheets as tabs.
+
 ## Inspiration
 
  
