@@ -35,9 +35,9 @@ Overall tract summary ranking variable (RPL_THEMES)
 
  
 
-We also calculated differences for percentage estimates for all vulnerability factors. We then plotted these variables on a map of North Carolina where we were then able to show how a tract's SVI changed from 2014 to 2018. This is intended to show how a tract's vulnerability rankings may be improving or worsening over the years. This could be used to identify more at-risk tracts and could give local leaders and environmental advocates reason to target these tracts for action.
+We then plotted these variables on a map of North Carolina where we were then able to show how a tract's SVI changed from 2014 to 2018. This is intended to show how a tract's vulnerability rankings may be improving or worsening over the years. This could be used to identify more at-risk tracts and could give local leaders and environmental advocates reason to target these tracts for action.
+We also calculated differences for percentage estimates for all vulnerability factors. This allows the user to further explore the reasons for changes in SVI over time.
 
- 
 
 ## Challenges we ran into
 
